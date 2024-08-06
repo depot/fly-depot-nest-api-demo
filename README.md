@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="./.github/img/logo-mark-on-dark.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-<p align="center">A sample TypeScript application demo for building and deploying to Fly.io using the [built-in Depot builder](https://depot.dev/blog/fly-builds-powered-by-depot) for accelerated deployments.</p>
+<p align="center">A sample TypeScript application demo for building and deploying to Fly.io using the <a href="https://depot.dev/blog/fly-builds-powered-by-depot">built-in Depot builder</a> for accelerated deployments.</p>
 
 
 ## Description

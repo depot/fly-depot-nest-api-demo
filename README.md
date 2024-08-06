@@ -33,6 +33,8 @@ The server will be running at [http://localhost:3000](http://localhost:3000)
 
 Visit [http://localhost:3000/api](http://localhost:3000/api) to view the Swagger API documentation.
 
+[![Swagger API Documentation](./.github/img/swagger-rock-paper-scissors.webp)](./.github/img/swagger-rock-paper-scissors.webp)
+
 **Play Game**
 
 To play Rock, Paper, Scissors, make a `GET` request to `/game/play` endpoint with the `move` query parameter. The `move` query parameter should be one of `rock`, `paper`, or `scissors`.

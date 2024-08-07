@@ -9,7 +9,7 @@
 
 This sample API is built using [Nest](https://docs.nestjs.com/) framework with [Swagger](https://swagger.io/) for API documentation. The application is built using TypeScript and demonstrates how to deploy to Fly.io using the [built-in Depot builder](https://depot.dev/blog/fly-builds-powered-by-depot) for accelerated deployments.
 
-View the full walkthrough on the [Depot blog]() **coming soon**.
+View the full walkthrough on the [Depot blog](https://depot.dev/blog/how-to-build-with-depot-on-fly).
 
 ## Installation
 
